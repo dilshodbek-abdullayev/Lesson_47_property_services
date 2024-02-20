@@ -1,0 +1,6 @@
+@Lesson_47_property_services_HostAddress = http://localhost:5069
+
+GET {{Lesson_47_property_services_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
